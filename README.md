@@ -17,7 +17,7 @@ npm install -g wsl-fsync
 Or from source:
 
 ```bash
-git clone https://github.com/PAllisonVSO/wsl-fsync.git
+git clone https://github.com/Stoneguard001/wsl-fsync.git
 cd wsl-fsync
 npm install && npm run build
 npm link

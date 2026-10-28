@@ -1,6 +1,6 @@
 {
   "name": "wsl-fsync",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "WSL2 folder watcher and Windows sync tool",
   "main": "dist/cli.js",
   "files": [
@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PAllisonVSO/wsl-fsync.git"
+    "url": "git+https://github.com/Stoneguard001/wsl-fsync.git"
   },
   "bugs": {
-    "url": "https://github.com/PAllisonVSO/wsl-fsync/issues"
+    "url": "https://github.com/Stoneguard001/wsl-fsync/issues"
   },
-  "homepage": "https://github.com/PAllisonVSO/wsl-fsync#readme",
+  "homepage": "https://github.com/Stoneguard001/wsl-fsync#readme",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.4.5",
